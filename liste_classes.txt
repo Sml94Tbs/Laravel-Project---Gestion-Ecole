@@ -1,0 +1,2 @@
+insert into classes(libelle, SLUG)
+values ("BTS SIO 1 A", "SIO1A"), ('BTS SIO 1 B', "SIO1B"), ("BTS SIO 2 SLAM", 'SIO2SLAM'), ("BTS SIO 2 SISR", "SIO2SISR")
